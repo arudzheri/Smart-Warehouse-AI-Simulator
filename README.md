@@ -19,12 +19,21 @@ This project simulates an AI-driven robot navigating a warehouse grid to optimiz
 - NumPy
 - Matplotlib
 
+## 🛠️ Development & Maintenance
+
+```bash
+git add .gitignore
+git commit -m "Remove compiled Python files"
+git push
+```
+
 ## 📦 Installation
 
 ```bash
 git clone https://github.com/yourusername/smart-warehouse-ai-simulator.git
 cd smart-warehouse-ai-simulator
 pip install -r requirements.txt
+```
 
 ## ▶️ Run the Simulator
 bash
