@@ -33,7 +33,6 @@ git push
 git clone https://github.com/yourusername/smart-warehouse-ai-simulator.git
 cd smart-warehouse-ai-simulator
 pip install -r requirements.txt
-```
 
 ## ▶️ Run the Simulator
 bash
@@ -44,3 +43,4 @@ python main.py
 ## 📊 Output
 The agent learns to reach the goal and avoids obstacles.
 After training, a graph shows total reward per episode.
+```
